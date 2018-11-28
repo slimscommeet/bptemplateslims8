@@ -13,6 +13,8 @@ Untuk dapat membuat template SLiMS hal harus anda minimal anda kuasai :
 ![screenshot](preview.png
 )
 
+### Cara Install
+
 Cara menginstall template dan mengembangkan template **bptemplateslims8**
 1. Download dan ekstrak atau clone template ini di `www/slims8_akasia/template`
 
@@ -20,6 +22,16 @@ Cara menginstall template dan mengembangkan template **bptemplateslims8**
 
 3. Code code div taruh pada directory `/part`
 
+### Cheat Code
+
+Ada beberapa script yang sering dipakai misal nya :
+
+* nama perpustakaan
+* form pencarian
+* link source gambar , 
+* link source css atau js yang harus disesuaikan pada template 
+
+Anda dapat melihat sample nya pada **cheat.php**
 
 ### Dibuat Oleh
 
