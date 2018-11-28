@@ -18,6 +18,6 @@
 	include 'meta.php';
 	?>
 </head>
-<body id="slims-page">
+<body>
 <!-- // wraper -->
 <div class="page-wraper">
